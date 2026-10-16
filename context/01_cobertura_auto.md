@@ -10,7 +10,8 @@ sensibilidad: publica
 ## Deducible
 En un siniestro con daño parcial el asegurado paga un deducible del 10% del monto del siniestro, con un mínimo de USD 150. Andina cubre el resto hasta la suma asegurada.
 
-## Plazo para reportar un siniestro
+## Plaz
+
 El siniestro debe reportarse dentro de 10 días calendario desde que ocurrió. Fuera de ese plazo Andina puede rechazar el reclamo, salvo caso de fuerza mayor documentada.
 
 ## Pérdida total

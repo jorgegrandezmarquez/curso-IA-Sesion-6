@@ -10,7 +10,7 @@ Aquí se guardan los pedidos a Claude Code que funcionaron. Un pedido que falla 
 4. **Ejemplos:** una entrada y la salida esperada.
 5. **Comprobación:** cómo verlo en su pantalla (pregunte X: debe aparecer Y).
 6. **Plan primero:** "Dime tu plan antes de escribir".
-
+export ANTHROPIC_API_KEY="LA-CLAVE"
 ## Metaprompt (para que la IA escriba el pedido)
 
 Quiero lograr: [su idea en una frase]. Antes de escribir nada, hazme hasta 5 preguntas. Luego redacta un pedido con objetivo, contexto, límites, ejemplos de entrada y salida, cómo comprobarlo en pantalla y "dime tu plan antes de escribir". Muéstramelo para aprobarlo. No lo ejecutes.

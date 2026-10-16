@@ -30,7 +30,7 @@ Terminal → **New Terminal**. Pegue, una línea por vez, cambiando `LA-CLAVE` p
 ```bash
 export ANTHROPIC_API_KEY="LA-CLAVE"
 npm run dev
-```
+``
 
 Aparece un aviso de "puerto 3000": pulse **Open in Browser**. Debe verse **"Mi asistente"**. No cierre esa ventana.
 
